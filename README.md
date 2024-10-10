@@ -1,2 +1,1 @@
-# init-devsecops
-init-devsecops
+# Mon projet DevSecOps
